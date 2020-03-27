@@ -9,3 +9,5 @@
 * mean absolute errorr
 * r squared coefficient
 * explained variance score
+
+![Image alt](https://github.com/LinaDanilina/recommender-system/blob/master/m.jpg)
