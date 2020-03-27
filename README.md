@@ -10,3 +10,4 @@
 * r squared coefficient
 * explained variance score
 
+![alt img](https://github.com/LinaDanilina/recommender-system/blob/master/m.jpg)
